@@ -8,7 +8,7 @@
 6. Pre-Trained BERT
 7. Senetence Similarity
 
-#Extracted Features:
+# Extracted Features:
 1. Basic Word features
 2. Length Based Features
 3. Token Based Features
